@@ -1,2 +1,3 @@
 # SQL-minor
-![image](https://user-images.githubusercontent.com/120278037/207739459-ca92f5e4-0a42-4357-a3ce-6a13c6d2f55b.png)
+
+![drawSQL-export-2022-12-15_02_38](https://user-images.githubusercontent.com/120278037/207739536-c12c5ecb-887e-4814-8626-50f1c53dcd94.png)
