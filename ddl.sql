@@ -51,7 +51,7 @@ CREATE TABLE IF NOT EXISTS fleet
 (
     fleet_id    BIGSERIAL PRIMARY KEY,
     airline_id  BIGINT NOT NULL REFERENCES airline (airline_id),
-    fleet_size  BIGINT NOT NULL
+    fleet_size  INTEGER NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS airport
