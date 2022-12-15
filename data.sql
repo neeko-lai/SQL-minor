@@ -20,7 +20,7 @@ insert into dateofissue (date_id, date_of_issue, batch) values (13, '13-12-2014'
 insert into dateofissue (date_id, date_of_issue, batch) values (14, '01-07-2017', 4);
 insert into dateofissue (date_id, date_of_issue, batch) values (15, '21-03-2016', 3);
 insert into dateofissue (date_id, date_of_issue, batch) values (16, '07-10-2014', 5);
-insert into dateofissue (date_id, date_of_issue, batch) values (17, '01-03-2005, 4);
+insert into dateofissue (date_id, date_of_issue, batch) values (17, '01-03-2005', 4);
 insert into dateofissue (date_id, date_of_issue, batch) values (18, '06-09-1985', 0);
 insert into dateofissue (date_id, date_of_issue, batch) values (19, '22-02-2012', 1);
 insert into dateofissue (date_id, date_of_issue, batch) values (20, '02-01-2009', 1);
