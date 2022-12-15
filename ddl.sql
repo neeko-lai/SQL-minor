@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS manufacturer
 );
 
 
-CREATE TABLE IF NOT EXISTS date
+CREATE TABLE IF NOT EXISTS dateofissue
 (
     date_id        BIGSERIAL PRIMARY KEY,
     date_of_issue  DATE  NOT NULL,
@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS aircraft
 (
     aircraft_id       BIGSERIAL PRIMARY KEY,
     aircraft_type_id  BIGINT NOT NULL REFERENCES aircrafttype (aircraft_type_id),
-    date_id           BIGINT NOT NULL REFERENCES date (date_id),
+    date_id           BIGINT NOT NULL REFERENCES dateofissue (date_id),
     tail_number       VARCHAR(200) NOT NULL,
     livery            VARCHAR(200) NOT NULL,
     crew_size         INTEGER NOT NULL
