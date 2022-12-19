@@ -5,13 +5,11 @@
 
 
 ## Содержание проекта
-* `docker-compose.yml` - это база
-* `init/init.sql` - инициализация базы данных
-* `ddl.sql` - структура базы данных
-* `data.sql` - данные для базы данных
-* `queries.sql` - запросы
+* `SQL project.ipynb` - это база
+* `queries.ipynb` - запросы
 
 
 ## Схема базы данных
 
-![drawSQL-export-2022-12-15_06_51](https://user-images.githubusercontent.com/120278037/207768430-026fe785-2e21-41c4-bbe2-706c8ea5187e.png)
+
+![drawSQL-export-2022-12-19_09_45](https://user-images.githubusercontent.com/120278037/208364608-8501c706-60f8-4380-93f3-f5e0e71e677b.png)
