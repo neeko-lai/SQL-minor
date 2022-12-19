@@ -6,10 +6,11 @@
 
 ## Содержание проекта
 * `SQL project.ipynb` - это база
-* `queries.ipynb` - запросы
+* `queries.ipynb` - это запросы
 
 
 ## Схема базы данных
 
 
-![drawSQL-export-2022-12-19_09_45](https://user-images.githubusercontent.com/120278037/208364608-8501c706-60f8-4380-93f3-f5e0e71e677b.png)
+
+![drawSQL-export-2022-12-19_11_16](https://user-images.githubusercontent.com/120278037/208379593-1ebe9e0e-58cd-4690-8375-257d374f8c66.png)
