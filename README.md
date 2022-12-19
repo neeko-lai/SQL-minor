@@ -12,5 +12,6 @@
 ## Схема базы данных
 
 
+![drawSQL-export-2022-12-19_12_20](https://user-images.githubusercontent.com/120278037/208394929-2b4e4d62-a363-41e5-a896-2864e03c38d3.png)
 
-![drawSQL-export-2022-12-19_11_16](https://user-images.githubusercontent.com/120278037/208379593-1ebe9e0e-58cd-4690-8375-257d374f8c66.png)
+
